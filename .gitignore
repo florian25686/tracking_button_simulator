@@ -1,0 +1,7 @@
+.idea/
+.env*
+!.env.example
+db/*
+!db/.gitkeep
+symfony/*
+!symfony/.gitkeep
